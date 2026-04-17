@@ -17,8 +17,9 @@ div {
 }
 .navbar {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  color: red;
 }
-.ul {
+ul {
   list-style-type: none;
 }
